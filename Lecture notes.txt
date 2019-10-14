@@ -1,0 +1,92 @@
+IKIGAI - japanese term....
+
+"DATA SCIENCE IS THE DISCILINE THAT MAKES DATA USEFU" = CASSIE KOZYRKOV
+
+understanding data science is having business understanding, be able to translate modeol into business decisions or applications. 
+
+importance of DATA STORY TELLING in business 
+
+go back to why you need such mathematical models, or formulas used... how does itmake sens to the business
+
+
+CRISP-DM
+
+PITCHING - MAKING A DATA STORY TELLING
+
+LIGHTNING TALK >>> 5MINS >>> MCKINSEY - SCQRA (situation, complication, question, resolution, call to action)
+
+                             4 PART PITCH (30secs - elevator pitch/2-7muns) - PSMB (problem, solution, market, business model)
+*** should be rehearsed!
+
+echo "#icpep_workshop">> README.md"
+git init
+git add README
+git commit -m "first commit"
+git remote add origin [url]
+git push -u origin master
+
+TO PUSH ALL FILES FROM LOCAL TO REMOTE:
+
+>>icpep_workshop>git add .
+git commit -m "Message here"
+git push origin master
+
+----------------------------------------
+
+ 5 observation , 100 feature >>>> curse of dimensionality.. it becomes highly dimensional >>> this is where Deep learning comes
+ ** always report the shape of the data
+cite the difference of the shape after data preparation
+
+
+TYPES OF DATA
+1. NUMERICAL
+2. CATEGORICAL
+
+
+DATA UNDERSTANDING
+
+univariate - just a single variable
+
+LAW of large numbers = if you repeatedyly, iteratively.. then you wil reach E[X]
+E[X] = expected value or mean
+
+STATISTICAL VS. MACHINE LEARNING
+
+Machine learning and predictive modeling focus on algorithmic methods and model skills
+
+
+Statistical and statistical learning are mathematical perspective on modeling data with focus on data models and goodness of fit... .. that is idea of sampling (finding the best sample)
+- you can see significant variables, relationship
+Frequenties - based on sampling 
+Bayesian = works on the idea of conditional probability
+** no decision >> no statistics
+**used random in selecting sample to avoid bias
+
+Descriptive stats - for summarizing data
+inferential - for drawing conlcusions from sample of data
+Moment:
+mean - 1st moment
+variance - 2nd moment
+skewness - 3rd 
+kurtosis - 4th
+
+HYPOTHESIS TESTING
+Population vs. sample
+parameter vs. statistic
+ 
+HYPOTHESIS TESTING - for decision making
+0. Default action - based on sample
+1.NUll hypothesis - immediate action, status quo
+2. create model - gather data (random)
+3. do calculation- go back to distrbution of your data
+4. decide (reject or not reject?)
+
+numerical
+1. z-test:if you know the population
+2. t-test
+
+categorical
+1. use chi square
+F (anova): comparing more than 2 variable to compare
+
+
